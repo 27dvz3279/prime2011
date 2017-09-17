@@ -20,6 +20,6 @@ I have found <a href="http://vf73ew.blogspot.jp/2011/01/the-pattern-of-prime-num
 <br>
 <a href="https://github.com/27dvz3279/prime2011/blob/master/prp1.pdf">It is fractal and infinite.</a> 
 <br>
-<img src="">
+<img src="https://github.com/27dvz3279/prime2011/blob/master/prgla.png">
 
 
