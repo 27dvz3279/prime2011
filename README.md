@@ -19,5 +19,7 @@ P^2+Σ2P=mod(N,P)=0=True
 I have found <a href="http://vf73ew.blogspot.jp/2011/01/the-pattern-of-prime-numbers.html">the pattern of prime numbers</a> which is the same with Sieve of Eratosthenes.
 <br>
 <a href="https://github.com/27dvz3279/prime2011/blob/master/prp1.pdf">It is fractal and infinite.</a> 
+<br>
+<img src="">
 
 
