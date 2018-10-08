@@ -12,6 +12,8 @@ P^2+Σ2P=mod(N,P)=0=True
 <br><br>
 ∴P=mod(N,P)=False
 </h3>
+<br>
+<a href="https://vf73ew.blogspot.com/2015/04/p2-2p.html"><img src="zzz.png"></a>
 <hr>
 <br>
 <a href="http://vf73ew.blogspot.jp/2011/01/riemanns-zeta-function.html">Riemann's zeta function</a> is based on Sieve of Eratosthenes.
