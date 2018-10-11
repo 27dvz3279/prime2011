@@ -25,5 +25,8 @@ I have found <a href="http://vf73ew.blogspot.jp/2011/01/the-pattern-of-prime-num
 <a href="https://github.com/27dvz3279/prime2011/blob/master/prp1.pdf">It is fractal and infinite.</a> 
 <br><br>
 <img src="https://github.com/27dvz3279/prime2011/blob/master/prgla.png">
-
+<br>
+<hr>
+<br>
+<a href="https://github.com/27dvz3279/fx"><img src="fff.png"></a>
 
