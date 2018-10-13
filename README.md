@@ -17,6 +17,7 @@ P^2+Σ2P=mod(N,P)=0=True
 <br>
 <a href="https://github.com/27dvz3279/prime2011/blob/master/Prime%20Numbers%20in%2050.ipynb"><img src="qqq.png"></a>
 <br>
+<hr>
 <a href="https://github.com/27dvz3279/prime2011/blob/master/Prime%20Numbers%20in%20500.ipynb">prime numbers in 500</a>
 <hr>
 <br>
