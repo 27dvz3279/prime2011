@@ -18,7 +18,9 @@ P^2+Σ2P=mod(N,P)=0=True
 <a href="https://github.com/27dvz3279/prime2011/blob/master/Prime%20Numbers%20in%2050.ipynb"><img src="qqq.png"></a>
 <br>
 <hr>
-<a href="https://github.com/27dvz3279/prime2011/blob/master/Prime%20Numbers%20in%20500.ipynb">prime numbers in 500</a>
+<a href="https://github.com/27dvz3279/prime2011/blob/master/Prime%20Numbers%20in%20500.ipynb"><li>prime numbers in 500</li></a>
+<br>
+<a href="https://github.com/27dvz3279/prime2011/blob/master/Prime%20Numbers%20in%20(500-1000).ipynb"><li>prime numbers in 500-1000</li></a>
 <hr>
 <br>
 <a href="http://vf73ew.blogspot.jp/2011/01/riemanns-zeta-function.html">Riemann's zeta function</a> is based on Sieve of Eratosthenes.
